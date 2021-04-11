@@ -8,7 +8,7 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     line-height: 20px;
-
+    zoom:90%;
 }
 
 .container{
@@ -74,7 +74,7 @@ h2{
 }
 
 .Skills table{
-    margin:20px 30px;
+    margin:20px 20px;
     padding: 10px 2px 2px 20px;
     font-weight: bold;
 }
@@ -92,6 +92,7 @@ h2{
 
 .Experience{
     padding-top: 50px;
+    padding-bottom: 39px;
 }
 
 a{
@@ -104,6 +105,5 @@ a{
     margin: 7px;
     text-align: center;
     line-height: 5px;
-    -webkit-box-shadow: -1px 10px 6px -4px rgba(178,178,178,0.94); 
-    box-shadow: -1px 10px 6px -4px rgba(178,178,178,0.94);
+
 }
